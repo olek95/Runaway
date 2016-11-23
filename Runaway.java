@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 /**
  * Klasa <code>Runaway</code> reprezentuje sterowanie programu uciekajacego przycisku. 
  * Przycisk ten ucieka w chwili najechania na niego kursorem w losowe położenie,
- * niewykgraczające poza brzegi ramki. Losowanie potrafi dostosować się do 
+ * niewykraczające poza brzegi ramki. Losowanie potrafi dostosować się do 
  * aktualnego rozmiaru ramki, tzn. jeśli ramka zostanie np. powiększona, to i tak 
  * przycisk może pojawić się na nowym obszarze. 
  * @author AleksanderSklorz
